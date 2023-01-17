@@ -5,7 +5,11 @@ public class main {
         System.out.println("Hello world");
         System.out.println(new Date());
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         System.out.println("Goodbye!!");
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
